@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dfgdgdfg
 tres
+=======
+dfgdgdfg soyss
+>>>>>>> 9efacd027c2c9e4f52e8ca3798409159b8becedd
